@@ -1,7 +1,7 @@
 # Prazer, eu sou o Leo! ✌️
 
 Comecei a estudar programação a alguns anos atrás por curiosidade (tentei primeiro com PHP e depois Java ☕), mas atualmente foco em Javascript. Também me aventurei um pouquinho com Python recentemente. 🐍<br>
-Atualmente estudo Desenvolvimento de Software fullstack na [Cubos Academy](https://cubos.academy/sucesso) e confesso que gosto mais de backend (go #teamback 💪).
+Concluí meus estudos em Desenvolvimento de Software fullstack na [Cubos Academy](https://cubos.academy/sucesso) e atualmente me aventuro em análise e tratamento de dados.
 <br><br>
 
 ## Tecnologias 
